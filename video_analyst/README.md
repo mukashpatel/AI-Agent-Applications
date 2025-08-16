@@ -113,6 +113,6 @@ GOOGLE_API_KEY Your Google Gemini API key
 - Streamlit Team
 
 🔗 Connect
-📧 Email: snsupratim@gmail.com
+📧 Email: mukesh@mukeshmpatel.com
 
 ---
